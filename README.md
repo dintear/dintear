@@ -1,7 +1,10 @@
 <section id="header" align="center">
   <img src="https://github.com/dintear/dintear/blob/main/fundamental.png" height="100" width="100">
 </section>
-<br>
+
+<h1 id="greeting" align="center">
+  Hi, there! :wave:
+</h1>
 
 <section id="badges" align="center">
   <a href="https://www.behance.net/denis_vyzulin">
@@ -17,14 +20,9 @@
 
 
 <section id="counter" align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=dintear&style=flat-square&color=0CC4AD" alt="Profile views"/> -->
+  <img src="https://komarev.com/ghpvc/?username=dintear&style=flat-square&color=0CC4AD" alt="Profile views"/>
 </section>
-<br><br>
-
-
-<h1 id="greeting" align="center">
-Hi, there! :wave:
-</h1>
+<br>
 
 
 <section id="instruments" align="center">
